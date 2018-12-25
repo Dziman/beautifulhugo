@@ -3,6 +3,7 @@ DefaultContentLanguage = "en"
 #DefaultContentLanguage = "ja"
 title = "Beautiful Hugo"
 theme = "beautifulhugo"
+themesDir = "../.."
 metaDataFormat = "yaml"
 pygmentsStyle = "trac"
 pygmentsUseClasses = true
